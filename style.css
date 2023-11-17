@@ -40,3 +40,14 @@ body {
 #scissors {
     background-color: #e4eb81;
 }
+
+#winnerMsg {
+    font-size: 40px;
+    text-align: center;
+    background-color: rgb(140, 118, 213);
+}
+
+#resetBtn {
+    text-align: center;
+    background-color: azure;
+}
